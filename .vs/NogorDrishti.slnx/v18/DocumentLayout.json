@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 185,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "NogorDrishti\\wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "NogorDrishti\\wwwroot\\css\\login.css",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T21:16:43.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "register.css",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\register.css",
+              "RelativeDocumentMoniker": "NogorDrishti\\wwwroot\\css\\register.css",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\register.css",
+              "RelativeToolTip": "NogorDrishti\\wwwroot\\css\\register.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T21:05:55.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NogorDrishti\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NogorDrishti\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T18:30:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "NogorDrishti\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "NogorDrishti\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T18:09:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Registration\\Registration.cshtml",
+              "RelativeDocumentMoniker": "NogorDrishti\\Views\\Registration\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Registration\\Registration.cshtml",
+              "RelativeToolTip": "NogorDrishti\\Views\\Registration\\Registration.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T18:07:54.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "NogorDrishti\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:04:45.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "NogorDrishti\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:04:23.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\LoginModel.cs",
+              "RelativeToolTip": "NogorDrishti\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:02:42.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "NogorDrishti\\Models\\RegistrationModel.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T18:02:29.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Program.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Program.cs",
+              "RelativeToolTip": "NogorDrishti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T17:59:45.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

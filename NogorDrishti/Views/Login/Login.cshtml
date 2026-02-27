@@ -1,0 +1,40 @@
+﻿@model NogorDrishti.Models.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<div class="login-container">
+    <h2 class="text-center login-title">NogorDrishti</h2>
+    
+    <form method="post" asp-controller="Login" asp-action="Login" class="login-form">
+        @Html.AntiForgeryToken()
+        
+        <div class="mb-3">
+            <label for="Email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" placeholder="Enter your email">
+            <span class="text-danger">@Html.ValidationMessage("Email")</span>
+        </div>
+        
+        <div class="mb-3">
+            <label for="Password" class="form-label">Password</label>
+            <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter your password">
+            <span class="text-danger">@Html.ValidationMessage("Password")</span>
+        </div>
+        
+        <div class="forgot-password-link">
+            <a asp-controller="Account" asp-action="ForgotPassword">Forgot Password?</a>
+        </div>
+        
+        <button type="submit" class="btn btn-primary login-btn">Login</button>
+    </form>
+    
+    <div class="login-footer">
+        <p class="mb-0">Don't have an account? <a asp-controller="Registration" asp-action="Registration">Register here</a></p>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

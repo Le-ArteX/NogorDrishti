@@ -1,0 +1,101 @@
+﻿@model NogorDrishti.Models.RegistrationModel
+@{
+    ViewData["Title"] = "Registration";
+}
+@{
+    bool checkedRole(string cti){
+        if (Model.Role != null && Model.Role.Equals(cti))
+        {
+            return true;
+        }
+        return false;
+    }
+
+    }
+
+<form method="post" asp-controller="Registration" asp-action="Registration" class="registration-container">
+    @Html.AntiForgeryToken()
+    
+    <h2 class="registration-title text-center">Create an Account</h2>
+    
+    <div class="mb-3">
+        <label for="FullName" class="form-label">Full Name</label>
+        <input type="text" class="form-control" value="@Model.FullName" id="FullName" name="FullName" placeholder="Enter your full name" />
+        <span class="text-danger">@Html.ValidationMessage("FullName")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email address</label>        <input type="text" class="form-control" value="@Model.Email" id="Email" name="Email" placeholder="Enter your email">
+        <span class="text-danger">@Html.ValidationMessage("Email")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="PhoneNumber" class="form-label">Phone number</label>
+        <input type="text" class="form-control" value="@Model.PhoneNumber" id="PhoneNumber" name="PhoneNumber" placeholder="Enter your phone number">
+        <span class="text-danger">@Html.ValidationMessage("PhoneNumber")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="DateOfBirth" class="form-label">Date of Birth</label>
+        <input type="date" class="form-control" value="@Model.DateOfBirth" id="DateOfBirth" name="DateOfBirth">
+        <span class="text-danger">@Html.ValidationMessage("DateOfBirth")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="Division" class="form-label">Division</label>
+        <input type="text" class="form-control" value="@Model.Division" id="Division" name="Division" placeholder="Enter your division">
+        <span class="text-danger">@Html.ValidationMessage("Division")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="District" class="form-label">District</label>
+        <input type="text" class="form-control" value="@Model.District" id="District" name="District" placeholder="Enter your district">
+        <span class="text-danger">@Html.ValidationMessage("District")</span>
+    </div>
+    
+    <div class="mb-3">
+        <div class="role-container">
+            <label class="form-label role-label">Role</label>
+            <div class="role-options">
+                <div class="form-check form-check-inline">
+                    <input type="radio" class="form-check-input" id="roleCitizen" checked="@checkedRole("Citizen")" name="Role" value="Citizen">
+                    <label class="form-check-label" for="roleCitizen">Citizen</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" class="form-check-input" id="roleOfficer" checked="@checkedRole("Officer")" name="Role" value="Officer">
+                    <label class="form-check-label" for="roleOfficer">Officer</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" class="form-check-input" id="roleWorker" checked="@checkedRole("Worker")" name="Role" value="Worker">
+                    <label class="form-check-label" for="roleWorker">Worker</label>
+                </div>
+            </div>
+        </div>
+        <span class="text-danger">@Html.ValidationMessage("Role")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" id="Password" name="Password" placeholder="Enter your password">
+        <span class="text-danger">@Html.ValidationMessage("Password")</span>
+    </div>
+    
+    <div class="mb-3">
+        <label for="ConfirmPassword" class="form-label">Confirm Password</label>
+        <input type="password" class="form-control" id="ConfirmPassword" name="ConfirmPassword" placeholder="Confirm your password">
+        <span class="text-danger">@Html.ValidationMessage("ConfirmPassword")</span>
+    </div>
+   
+    <button type="submit" class="btn btn-primary btn-submit">Submit</button>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+
+
+
+
+
+

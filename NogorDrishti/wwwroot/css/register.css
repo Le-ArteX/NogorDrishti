@@ -1,0 +1,116 @@
+﻿.registration-container {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.registration-title {
+    color: #0066cc;
+    font-weight: bold;
+    margin-bottom: 35px;
+    font-size: 2rem;
+}
+
+.form-control {
+    padding: 12px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    transition: all 0.3s ease;
+}
+
+.form-control:focus {
+    border-color: #0066cc;
+    box-shadow: 0 0 0 0.2rem rgba(0, 102, 204, 0.25);
+}
+
+.form-label {
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+}
+
+/* Role section styling */
+.role-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 5px;
+}
+
+.role-label {
+    margin-bottom: 0;
+    min-width: 50px;
+}
+
+.role-options {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.form-check-inline {
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+.form-check-input {
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+}
+
+.form-check-input:checked {
+    background-color: #0066cc;
+    border-color: #0066cc;
+}
+
+.form-check-label {
+    margin-left: 8px;
+    cursor: pointer;
+    color: #555;
+}
+
+.btn-submit {
+    width: 100%;
+    padding: 14px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    background-color: #0066cc;
+    border: none;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    margin-top: 10px;
+}
+
+.btn-submit:hover {
+    background-color: #0052a3;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 102, 204, 0.3);
+}
+
+/* Validation messages */
+.text-danger {
+    font-size: 0.875rem;
+    margin-top: 5px;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .registration-container {
+        margin: 15px;
+        padding: 25px;
+    }
+
+    .registration-title {
+        font-size: 1.5rem;
+    }
+
+    .role-container {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+}
