@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\minimumageattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,20 +31,8 @@
       "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\wwwroot\\css\\register.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\views\\registration\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|solutionrelative:nogordrishti\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4E08583-A67B-7470-B4E8-B8339558517C}|NogorDrishti\\NogorDrishti.csproj|c:\\users\\mursa\\desktop\\desktop\\nogordrishti\\nogordrishti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MinimumAgeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\MinimumAgeAttribute.cs",
+              "RelativeDocumentMoniker": "NogorDrishti\\Models\\MinimumAgeAttribute.cs",
+              "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\MinimumAgeAttribute.cs",
+              "RelativeToolTip": "NogorDrishti\\Models\\MinimumAgeAttribute.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:21:32.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "login.css",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\login.css",
               "RelativeDocumentMoniker": "NogorDrishti\\wwwroot\\css\\login.css",
@@ -66,19 +83,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "register.css",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\register.css",
               "RelativeDocumentMoniker": "NogorDrishti\\wwwroot\\css\\register.css",
               "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\wwwroot\\css\\register.css",
               "RelativeToolTip": "NogorDrishti\\wwwroot\\css\\register.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-27T21:05:55.748Z"
+              "WhenOpened": "2026-02-27T21:05:55.748Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "NogorDrishti\\Views\\Shared\\_Layout.cshtml",
@@ -90,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "NogorDrishti\\Views\\Login\\Login.cshtml",
@@ -103,31 +121,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Registration.cshtml",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Registration\\Registration.cshtml",
               "RelativeDocumentMoniker": "NogorDrishti\\Views\\Registration\\Registration.cshtml",
               "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Views\\Registration\\Registration.cshtml",
               "RelativeToolTip": "NogorDrishti\\Views\\Registration\\Registration.cshtml",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAtwCkAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-27T18:07:54.939Z"
+              "WhenOpened": "2026-02-27T18:07:54.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RegistrationController.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "NogorDrishti\\Controllers\\RegistrationController.cs",
               "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "NogorDrishti\\Controllers\\RegistrationController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T18:04:45.751Z"
+              "WhenOpened": "2026-02-27T18:04:45.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "NogorDrishti\\Controllers\\LoginController.cs",
@@ -139,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "NogorDrishti\\Models\\LoginModel.cs",
@@ -151,19 +171,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "RegistrationModel.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\RegistrationModel.cs",
               "RelativeDocumentMoniker": "NogorDrishti\\Models\\RegistrationModel.cs",
               "ToolTip": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Models\\RegistrationModel.cs",
               "RelativeToolTip": "NogorDrishti\\Models\\RegistrationModel.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAuwBUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T18:02:29.629Z"
+              "WhenOpened": "2026-02-27T18:02:29.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mursa\\Desktop\\Desktop\\NogorDrishti\\NogorDrishti\\Program.cs",
               "RelativeDocumentMoniker": "NogorDrishti\\Program.cs",

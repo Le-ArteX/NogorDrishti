@@ -19,7 +19,8 @@ namespace NogorDrishti.Models
 
         [Required(ErrorMessage = "Date of birth is required")]
         [DataType(DataType.Date)]
-        public DateOnly DateOfBirth { get; set; }
+        [MinimumAge(18, ErrorMessage = "You must be at least 18 years old to register")]
+        public DateTime? DateOfBirth { get; set; }
 
         [Required(ErrorMessage = "Division is required")]
         [StringLength(15, ErrorMessage = "Division cannot exceed 15 characters")]

@@ -10,8 +10,9 @@
         }
         return false;
     }
-
     }
+
+    
 
 <form method="post" asp-controller="Registration" asp-action="Registration" class="registration-container">
     @Html.AntiForgeryToken()
@@ -25,7 +26,8 @@
     </div>
     
     <div class="mb-3">
-        <label for="Email" class="form-label">Email address</label>        <input type="text" class="form-control" value="@Model.Email" id="Email" name="Email" placeholder="Enter your email">
+        <label for="Email" class="form-label">Email address</label>
+        <input type="text" class="form-control" value="@Model.Email" id="Email" name="Email" placeholder="Enter your email">
         <span class="text-danger">@Html.ValidationMessage("Email")</span>
     </div>
     
@@ -37,7 +39,7 @@
     
     <div class="mb-3">
         <label for="DateOfBirth" class="form-label">Date of Birth</label>
-        <input type="date" class="form-control" value="@Model.DateOfBirth" id="DateOfBirth" name="DateOfBirth">
+        <input type="date" class="form-control" value="@(Model.DateOfBirth.HasValue? Model.DateOfBirth.Value.ToString("yyyy-MM-dd") : "")" id="DateOfBirth" name="DateOfBirth">
         <span class="text-danger">@Html.ValidationMessage("DateOfBirth")</span>
     </div>
     

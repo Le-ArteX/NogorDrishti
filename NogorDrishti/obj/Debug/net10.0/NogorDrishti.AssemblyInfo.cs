@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NogorDrishti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b8751e969d8a5249b6832eef80af50610f10482")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e12dec6ceaa56ed67699b88380669f93dca2ea77")]
 [assembly: System.Reflection.AssemblyProductAttribute("NogorDrishti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NogorDrishti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
